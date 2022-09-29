@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tags:
-        description: 'Tags' 
+        description: 'Tags'
         required: true
 
 jobs:
